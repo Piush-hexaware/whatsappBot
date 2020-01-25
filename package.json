@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "ejs": "^3.0.1",
     "express": "^4.16.4",
     "ext-name": "^5.0.0",
     "node-ejs": "^1.2.3",
