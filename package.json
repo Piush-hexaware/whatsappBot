@@ -15,7 +15,7 @@
     "express": "^4.16.4",
     "ext-name": "^5.0.0",
     "node-ejs": "^1.2.3",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "nodemon": "^2.0.2",
     "twilio": "^3.26.1"
   }
